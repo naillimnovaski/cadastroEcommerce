@@ -1,1 +1,1 @@
-# cadastroEcommerce
+# projeto de cadastro para Ecommerce
